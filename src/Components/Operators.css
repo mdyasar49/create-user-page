@@ -1,0 +1,11 @@
+.operators{
+    display: grid;
+    grid-template-columns: repeat(1,50px);
+    grid-template-rows: repeat(6,50px);
+}
+.display1{
+    width: 50px;
+    text-align: center;
+    border: 1px solid;
+    font-size: 30px;
+}

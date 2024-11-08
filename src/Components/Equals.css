@@ -1,0 +1,11 @@
+.display{
+    width: 200px;
+    text-align: right;
+    border: 1px solid;
+    font-size: 30px;
+}
+.equals{
+    display: grid;
+    grid-template-columns: repeat(1,50px);
+    grid-template-rows: repeat(1,50px);
+}
